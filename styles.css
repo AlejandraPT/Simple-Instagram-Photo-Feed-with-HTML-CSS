@@ -1,0 +1,82 @@
+body{
+    background: white;
+}
+
+#titulo{
+    text-align: center;
+    background-color: white;
+}
+
+#relleno{
+    margin: 0%;
+    padding: 0%;
+    border: #c5c5c7 ;
+    background: #c5c5c7;
+}
+
+#post1{
+    background: white;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+}
+
+#encabezado{
+    display: flex;
+}
+
+#post1 h3 {
+    padding-top: 10px;
+	width: 400px;
+	margin: 0px;
+}
+
+#post1 img{
+    width: 400px;
+    height: 240px;
+}
+
+#date{
+    width: 50px;
+	height: 50px;
+}
+
+#post2{
+    background: white;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+}
+
+#post2 h3 {
+    padding-top: 10px;
+	width: 400px;
+	margin: 0px;
+}
+
+#post2 img{
+    width: 400px;
+    height: 240px;
+}
+
+#post3{
+    background: white;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+}
+
+#post3 h3 {
+    padding-top: 10px;
+	width: 400px;
+	margin: 0px;
+}
+
+#post3 img{
+    width: 400px;
+    height: 240px;
+}
+
+footer{
+    background: #c5c5c7;
+}
