@@ -1,5 +1,6 @@
 body{
     background: white;
+    margin: auto;
 }
 
 #titulo{
@@ -19,6 +20,7 @@ body{
     width: 400px;
     height: 350px;
     margin: auto;
+    padding: 10px 10px 10px 10px;
 }
 
 #encabezado{
@@ -46,6 +48,7 @@ body{
     width: 400px;
     height: 350px;
     margin: auto;
+    padding: 10px 10px 10px 10px;
 }
 
 #post2 h3 {
@@ -64,6 +67,7 @@ body{
     width: 400px;
     height: 350px;
     margin: auto;
+    padding: 10px 10px 10px 10px;
 }
 
 #post3 h3 {
@@ -79,4 +83,6 @@ body{
 
 footer{
     background: #c5c5c7;
+    margin: auto;
+    height: 100px;
 }
