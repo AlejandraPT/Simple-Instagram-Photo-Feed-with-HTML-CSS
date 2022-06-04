@@ -17,14 +17,18 @@ body{
 
 #post1{
     background: white;
-    width: 400px;
-    height: 350px;
+    width: 430px;
+    height: 400px;
     margin: auto;
-    padding: 10px 10px 10px 10px;
 }
 
 #encabezado{
     display: flex;
+    padding: 10px 10px 10px 10px;
+}
+
+#texto{
+    padding: 10px 10px 10px 10px;
 }
 
 #post1 h3 {
@@ -34,8 +38,9 @@ body{
 }
 
 #post1 img{
-    width: 400px;
+    width: 430px;
     height: 240px;
+    padding: 0px;
 }
 
 .date{
@@ -44,10 +49,9 @@ body{
 
 #post2{
     background: white;
-    width: 400px;
-    height: 350px;
+    width: 430px;
+    height: 400px;
     margin: auto;
-    padding: 10px 10px 10px 10px;
 }
 
 #post2 h3 {
@@ -57,16 +61,16 @@ body{
 }
 
 #post2 img{
-    width: 400px;
+    width: 430px;
     height: 240px;
+    padding: 0px;
 }
 
 #post3{
     background: white;
-    width: 400px;
-    height: 350px;
+    width: 430px;
+    height: 400px;
     margin: auto;
-    padding: 10px 10px 10px 10px;
 }
 
 #post3 h3 {
@@ -76,8 +80,9 @@ body{
 }
 
 #post3 img{
-    width: 400px;
+    width: 430px;
     height: 240px;
+    padding: 0px;
 }
 
 footer{
